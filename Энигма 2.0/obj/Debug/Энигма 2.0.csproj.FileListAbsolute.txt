@@ -1,0 +1,10 @@
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\bin\Debug\Энигма 2.0.exe.config
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\bin\Debug\Энигма 2.0.exe
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\bin\Debug\Энигма 2.0.pdb
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма_2._0.Form1.resources
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма_2._0.Properties.Resources.resources
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма 2.0.csproj.GenerateResource.cache
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма 2.0.exe
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма 2.0.pdb
+C:\Users\Bitil\source\repos\Энигма 2.0\Энигма 2.0\obj\Debug\Энигма 2.0.csprojAssemblyReference.cache
